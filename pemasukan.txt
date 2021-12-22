@@ -6,3 +6,4 @@ RESOLUSI ADAM
 -apply pekerjaan
 -S2
  *ini harus
+-harus tercapai
